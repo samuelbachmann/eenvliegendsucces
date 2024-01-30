@@ -130,14 +130,6 @@ iframe.center {
   margin-right: auto;
 }
 
-footer {
-  background-color: #57737A;
-  padding: 16px;
-  text-align: center;
-  width: 100%;
-  color: #fff;
-}
-
 @media only screen and (max-width: 1280px) {
   #download {
     width: 100%;
