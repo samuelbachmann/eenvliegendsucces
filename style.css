@@ -111,6 +111,10 @@ a {
   font-weight: 500;
 }
 
+.content-square a {
+  font-weight: 700;
+}
+
 .download-square {
   display: flex;
 
